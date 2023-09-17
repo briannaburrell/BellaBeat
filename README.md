@@ -11,3 +11,12 @@ BellaBeat is a wellness technology company that offers health-focused products f
 
 The Chief Creative Officer wants an analysis on smart device usage data in order to gain insight into how consumers use Bellabeat smart devices. The following insights will help guide the marketing strategy for the company. One of the BellaBeat products should be used to apply these insights to the final presentation. The usage trends will then be utilized to provide possible solutions to their marketing strategy. 
 
+## Dataset
+
+![BBdiagram](https://github.com/briannaburrell/BellaBeat/assets/134978128/110e646a-4e80-48b3-9929-2acd71a87c89)
+
+
+
+
+
+
