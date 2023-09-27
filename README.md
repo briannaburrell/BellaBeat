@@ -72,6 +72,8 @@ Average minutes asleep across all customers is 416 minutes = about 7 hours of sl
 <img width="698" alt="Screenshot 2023-09-15 at 10 58 46 AM" src="https://github.com/briannaburrell/BellaBeat/assets/134978128/f215e96d-1780-462c-941d-918984298056">
 
 The average customer is not consistent with tracking their sleeping patterns, in conclusion tracking sleep would not be good for advertising.
+## Summary 
+Based on the comprehensive analysis of customer data from the Leaf product, several strategic recommendations can be made to optimize advertising efforts. To promote increased physical activity, it is crucial to highlight Tuesday as the most active day for walking and encourage engagement on this day. To address the low activity levels on Mondays, targeted marketing campaigns should be designed to motivate customers to start the week with a focus on their fitness routines. Additionally, the data underscores the significance of weekdays for walking activity, suggesting that advertising should particularly emphasize the benefits and features of the Leaf product during this timeframe. To leverage peak activity, marketing efforts should be intensified during the months of April when activity levels are highest, while considering tailored approaches to boost engagement in May, the month with the lowest average steps. Given the sporadic nature of sleep tracking, promoting features related to consistent sleep monitoring can encourage more regular use of this functionality. Overall, a holistic advertising strategy that capitalizes on these insights is poised to significantly enhance customer engagement and drive the uptake of Leaf products for a healthier lifestyle.
 
 
 
